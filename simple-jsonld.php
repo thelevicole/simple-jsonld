@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name: Simple structured data
- * Description: Adds a basic structured data editor to post types and prints the JSON+LD values into the <head>.
+ * Description: Adds a basic structured data editor to post types and prints the JSON+LD values into the &lt;head&gt;.
  * Version: 1.0.0
  * Plugin URI: https://skape.co/
  * Author: Skape Collective
