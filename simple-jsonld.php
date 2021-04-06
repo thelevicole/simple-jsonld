@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Plugin Name: Simple structured data [DEV]
+ * Plugin Name: Simple structured data
  * Description: Adds a basic structured data editor to post types and prints the JSON+LD values into the <head>.
  * Version: 1.0.0
  * Plugin URI: https://skape.co/
